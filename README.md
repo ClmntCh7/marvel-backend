@@ -1,2 +1,1 @@
-# marvel-project
 # marvel-backend
